@@ -1,0 +1,5 @@
+polyphony
+vcdvcd
+myhdl
+matplotlib
+d3_py
