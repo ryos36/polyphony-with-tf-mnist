@@ -21,21 +21,21 @@ for_zybo の下には design_1.tcl もあるのでこれで再構築できるは
 
 # 関連情報
 TensorFlow で MNIST
-   http://www.sinby.com/seiko-udoku/19-04140.html
+   https://www.sinby.com/seiko-udoku/19-04140.html
 
 TensorFlow と bfloat16
-   http://www.sinby.com/seiko-udoku/19-04141.html
+   https://www.sinby.com/seiko-udoku/19-04141.html
 
 Python を使って bfloat16
-   http://www.sinby.com/seiko-udoku/19-04142.html
+   https://www.sinby.com/seiko-udoku/19-04142.html
 
 Polyphony で bfloat16
-   http://www.sinby.com/seiko-udoku/19-04143.html
+   https://www.sinby.com/seiko-udoku/19-04143.html
 
 Polyphony で MNIST
-   http://www.sinby.com/seiko-udoku/19-04144.html
+   https://www.sinby.com/seiko-udoku/19-04144.html
 
 Zybo で MNIST
-   http://www.sinby.com/seiko-udoku/19-04145.html
+   https://www.sinby.com/seiko-udoku/19-04145.html
 
 Copyright (C) Sinby Corp.
